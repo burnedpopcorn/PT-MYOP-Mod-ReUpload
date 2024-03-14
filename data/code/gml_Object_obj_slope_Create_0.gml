@@ -1,0 +1,1 @@
+customSprite = spr_slope;

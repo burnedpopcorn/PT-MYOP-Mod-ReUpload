@@ -1,0 +1,1 @@
+tbrowser_cleanup();
