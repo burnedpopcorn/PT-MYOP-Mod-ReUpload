@@ -1,4 +1,4 @@
-# PT Make Your Own Pizza Mod
+# Pizza Tower's Make Your Own Pizza Mod
 Public archive for Pizza Tower's Make your own Pizza Mod
 > This fork might be updated depending on if the main repo gets updated
 
