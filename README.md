@@ -1,5 +1,6 @@
-# pt-new-level-editor
-Public repo for PizzaTower's Make your own Pizza mod
+# PT Make Your Own Pizza Mod
+Public archive for Pizza Tower's Make your own Pizza Mod
+> This fork might be updated depending on if the main repo gets updated
 
 # Editing source code
 You will NEED my fork of UTMT that I made specifically for working on cyop, get it here: https://github.com/GithubSPerez/UndertaleModTool
